@@ -20,3 +20,31 @@
     margin-left: 10px;
 }
 /* header */
+
+.header_section{
+    margin: 10px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.autor{
+    font-size: 30px;
+    color: gray;
+    font-weight: bold;
+}
+
+strong{
+    color: rgb(0, 179, 255);
+}
+
+.date{
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.imgs{
+    margin-top: 20px;
+}
