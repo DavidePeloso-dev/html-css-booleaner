@@ -12,6 +12,8 @@
 
 .container{
     height: inherit;
+    margin: auto;
+    width: 75%;
 }
 
 .logo{
@@ -22,11 +24,12 @@
 /* header */
 
 #main{
-    margin: 10px;
+    margin: auto;
+    width: 75%;
 }
 
 h1{
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .autor{
