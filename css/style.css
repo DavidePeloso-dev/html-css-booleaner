@@ -21,7 +21,7 @@
 }
 /* header */
 
-.header_section{
+#main{
     margin: 10px;
 }
 
@@ -48,3 +48,26 @@ strong{
 .imgs{
     margin-top: 20px;
 }
+/* header_section */
+
+.info_section{
+    margin-top: 20px;
+}
+
+.important{
+    background-color: yellow;
+}
+
+ul{
+    padding: 15px;
+}
+
+.col{
+    width: 300px;
+    text-align: left;
+}
+
+table{
+    margin-bottom: 20px;
+}
+/*info_section*/
